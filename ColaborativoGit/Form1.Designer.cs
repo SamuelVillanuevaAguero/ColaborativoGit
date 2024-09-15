@@ -20,7 +20,7 @@
             base.Dispose(disposing);
         }
 
-        //Modificación de Samuelito jejejejeje
+        //Modificación de Samuelito jejejejeje (prueba2) ------------------
 
         #region Código generado por el Diseñador de Windows Forms
 
