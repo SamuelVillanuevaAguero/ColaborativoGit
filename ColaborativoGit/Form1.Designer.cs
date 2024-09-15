@@ -22,6 +22,8 @@
 
         //Modificación de Samuelito jejejejeje (prueba2) ------------------
 
+        //hodi de nuevo 
+
         #region Código generado por el Diseñador de Windows Forms
 
         /// <summary>
