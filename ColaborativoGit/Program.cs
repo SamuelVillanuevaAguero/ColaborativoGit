@@ -18,5 +18,7 @@ namespace ColaborativoGit
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+        //Trabajanding en otro lado mientras Jaky trabaja en otro a ver si no se borra jeje.
     }
 }
