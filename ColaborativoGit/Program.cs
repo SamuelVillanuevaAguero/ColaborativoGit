@@ -19,6 +19,6 @@ namespace ColaborativoGit
             Application.Run(new Form1());
         }
 
-        //Trabajanding en otro lado mientras Jaky trabaja en otro a ver si no se borra jeje.
+        //Trabajanding en otro lado mientras Jaky trabaja en otro a ver si no se borra jeje
     }
 }
